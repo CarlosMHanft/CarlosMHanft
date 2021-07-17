@@ -1,34 +1,25 @@
-<html>
-<head>
-<link href='https://fonts.googleapis.com/css?family=Sofia' rel='stylesheet'>
-<style>
-body {
-    font-family: 'Sofia';font-size: 22px;
-}
-</style>
-</head>
-<body>
 
-<h1>Sofia</h1>
-<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
-<p>123456790</p>
-<p>ABCDEFGHIJKLMNOPQRSTUVWXYZ</p>
-<p>abcdefghijklmnopqrstuvwxyz</p>
+### Fala pessoal, tudo certo ?
 
-</body>
-</html>
+Meu nome é Carlos e estou dedicando meu tempo para aprender ciência de dados e tecnologias de Big Data.
 
-<!--
-This is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aos poucos vou incluindo projetos no meu portfólio e se puder contribuir com ideias/críticas para quem está no início terá meu imenso agradecimento.
 
-Here are some ideas to get you started:
+Sou formado em Economia na FEA-USP e trabalhei no mercado financeiro em áreas de operações, negócios e conciliação de carteiras até decidir mudar de carreira e começar meus estudos na pós graduação em Big Data e focar meu tempo em aprender os fundamentos para me tornar um Cientista de Dados.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Atualmente estou trabalhando com:
+
+- Python
+- Power BI
+- Spark (Pyspark / SparkSQL)
+- SQL Server / PostgreSQL
+
+# Estou estudando:
+
+- NoSQL (Cassandra)
+- Docker
+
+# Fun fact:
+
+Sou vegetariano ! Bora salvar este mundo.
+
