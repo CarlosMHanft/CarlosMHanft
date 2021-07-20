@@ -19,6 +19,7 @@ Sou formado em Economia na FEA-USP e trabalhei no mercado financeiro em áreas d
 
 - NoSQL (Cassandra)
 - Docker
+- Dremio
 
 # Fun fact:
 
