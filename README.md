@@ -29,7 +29,7 @@ Sou vegetariano ! Bora salvar este mundo.
 <center>
 <table>
     <tr>
-        <td class="first"><img width="420px" align="left" src="https://github-readme-stats.vercel.app/api?username=carlosmhanft&theme=dark&show_icons=true" /></td>
+        <td class="first"><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=carlosmhanft&theme=dark&show_icons=true" /></td>
         <td class="second"><img width="420px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmhanft&hide=html&layout=compact&theme=dark&show_icons=true"/></td>
     </tr>   
 </table>
