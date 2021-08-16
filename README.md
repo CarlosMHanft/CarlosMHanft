@@ -13,11 +13,10 @@ Sou formado em Economia na FEA-USP e trabalhei no mercado financeiro em áreas d
 - Python
 - Power BI
 - Spark (Pyspark / SparkSQL)
-- SQL Server / PostgreSQL
+- SQL Server
 
 # Estou estudando:
 
-- NoSQL (Cassandra)
 - Docker
 - Dremio
 
